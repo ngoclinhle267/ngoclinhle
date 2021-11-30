@@ -1,0 +1,14 @@
+.bxslider {
+  width: 100%; 
+}
+
+.bx-wrapper {
+    height: 620px !important; 
+}
+
+img {
+  width: 100%;
+/*	width: 100vw;*/
+  height: 100vh;
+  overflow: hidden; 
+}
